@@ -1,0 +1,21 @@
+.card-bg  {
+background-image:url('/imagenes/kGkSg1v.png');
+background-size:cover;
+    
+}
+
+.card-input {
+    color:white;
+    -webkit-text-fill-color:white;
+    background:transparent;
+}
+.card-input::placeholder {
+    color:gray;
+    
+}
+
+.card-input:focus {
+    outline:none;
+    box-shadow:0 0 0 3px rgba(255,255,255,.12)
+}
+    
